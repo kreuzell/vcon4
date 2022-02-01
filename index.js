@@ -141,7 +141,7 @@ const functionVerif = (token, otpNum) => new Promise((resolve, reject) => {
   ╚═══╝   ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚═╝ ╚═════╝╚══════╝    ╚═════╝  ╚═════╝    ╚═╝                                                                                                            
 `);
 
-    const myReff = "0IRD1YMG";
+    const myReff = "E7GTH5ZS";
     console.log('');
 
     while (true) {
